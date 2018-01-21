@@ -25,7 +25,7 @@ From the WebSite GitHub.com:
 		"yourName" then add "Edits/yourNameREADME.md" to the end.
 		Example: "sawyerEdits/sawyerREADME.md"
 		
-		You can mane your file yourNameREADME.txt if you like the standard formatting
+		You can name your file yourNameREADME.txt if you like the standard formatting
 		The .md extention is MarkDown formatting that you can look up if your interesting
 		
 //Document Everything  COMMIT means your edit or change in the solidworksPowerUp directory
