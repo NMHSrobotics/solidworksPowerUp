@@ -10,4 +10,25 @@ and how to merge them with the master.
 		This file would be a good test.  
 		Download this file for your exercise uploading it you yourNameEDITS folder.
 	Click the "Upload files" near the right of the screen.
+//Commit Changes
+	Give brief description of your upload, 
+	and expand on your description if necessary in the larger text field.
+	Click the green "Commit changes" button.
+//Merge your branch to the master branch.
+	//Remember we should be in the branch you made for this exercise.
+	//Your branch is a copy of the solidworksPowerUp repository,
+	//Pull request looks at the master and yours and compares the differences.
+	//This allows you to see what will be changed before you merge to the master branch.
 	
+	Go you yourNameEdits folder and check your upload.
+	Click back on the solidworksPowerUp folder under your branch.
+	Click the "Compare & pull request" 
+	Give a short descriptive name to the pull request.
+	Scroll down and click the green "Create pull request"
+		Below the button is a list of changes to the master.
+	Click the green "Merge pull request."
+	Click the green "Confirm Merge"
+//At this point the Merge is complete and the exercise is done.
+//There is a gray "Delete branch" button you can press to clean up.
+
+	If necessary you can make a comment and click the green "Comment" button. 
