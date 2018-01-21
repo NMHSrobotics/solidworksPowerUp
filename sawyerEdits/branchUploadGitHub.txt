@@ -1,0 +1,13 @@
+This is an exercise to see how uploaded files work with a branch other than the master 
+and how to merge them with the master.
+
+//Create a branch of the solidworksPowerUp
+	Click on the dropdown of Branch:master in the yourNameEDITS folder.
+	Type a descriptive name of the branch you want to create in the text field.
+	Then hit Enter.
+//Upload a file from your new branch.
+	Have a file saved on your computer to upload to your branch.
+		This file would be a good test.  
+		Download this file for your exercise uploading it you yourNameEDITS folder.
+	Click the "Upload files" near the right of the screen.
+	
